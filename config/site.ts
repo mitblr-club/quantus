@@ -3,9 +3,9 @@ import { NavItem } from "@/types/nav-item";
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Club Name",
+  name: "QuantUs",
   institution: "Manipal Institute of Technology Bengaluru (MIT)",
-  description: "Enter the description of your site.",
+  description: "The Quantum Computing Club of MIT, Bengaluru",
   eventsTableId: "df0bbd9604a846468e6aaf7f41042c1c",
   blogTableId: "d8caac170c6243a18228b8467ec1f41e",
   navLinks: [
@@ -25,7 +25,7 @@ export const siteConfig = {
   mediaLinks: {
     instagram: "https://www.instagram.com/",
     linkedin: "https://in.linkedin.com/",
-    github: "https://github.com/",
+    github: "https://github.com/quantus-mitblr/Community-Activities",
     twitter: "https://twitter.com/",
     institute: "https://manipal.edu/mitblr.html",
   },
